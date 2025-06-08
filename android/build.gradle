@@ -43,6 +43,8 @@ android {
     defaultConfig {
         minSdkVersion 16
     }
+
+    namespace 'com.shaz.plugin.fist.flutter_internet_speed_test'
 }
 
 dependencies {
